@@ -19,4 +19,3 @@ let { CH552G, .. } = import "fak/mcus.ncl" in
       D 33,  # 5: P3.3  knob press
   ],
 }
-}
